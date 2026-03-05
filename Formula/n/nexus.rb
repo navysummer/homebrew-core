@@ -2,8 +2,8 @@ class Nexus < Formula
   desc "Repository manager for binary software components"
   homepage "https://www.sonatype.com/"
   url "https://github.com/sonatype/nexus-public.git",
-      tag:      "release-3.80.0-06",
-      revision: "74aa87dcd43439ef2b69d0a5e49d5522b7944261"
+      tag:      "release-3.89.1-02",
+      revision: "a9c397255e85bac773bd97f00a13d7c9ab3fa99d"
   license "EPL-1.0"
 
   # As of writing, upstream is publishing both v2 and v3 releases. The "latest"
